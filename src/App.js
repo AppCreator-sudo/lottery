@@ -25,7 +25,7 @@ function App() {
     };
 
     return (
-        <TonConnectUIProvider manifestUrl="http://localhost:3000/tonconnect-manifest.json">
+        <TonConnectUIProvider manifestUrl="https://appcreator-sudo-lottery-6fa9.twc1.net/tonconnect-manifest.json">
             <div style={{
                 display: 'flex',
                 justifyContent: 'center',
