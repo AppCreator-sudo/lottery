@@ -1,4 +1,9 @@
 {
-  "url": "http://localhost:3000",
-  "iconUrl": "http://localhost:3000/logo.png"
+  "url": "https://appcreator-sudo-lottery-6fa9.twc1.net",
+  "iconUrl": "https://github.com/AppCreator-sudo/lottery/blob/master/public/logo192.png",
+  "name": "Lottery App",
+  "shortName": "Lottery",
+  "description": "A fun and engaging lottery game powered by TON blockchain",
+  "themeColor": "#000000",
+  "backgroundColor": "#ffffff"
 }
